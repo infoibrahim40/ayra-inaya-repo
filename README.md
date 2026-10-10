@@ -4,7 +4,7 @@ You give: **approved images + a script + voice files**. GitHub Actions gives: pr
 
 ## One-time setup
 1. Create a **private** GitHub repo and upload this folder.
-2. Repo Settings, Secrets and variables, Actions: add `ANTHROPIC_API_KEY` and `GEMINI_API_KEY`.
+2. Repo Settings, Secrets and variables, Actions: add `GEMINI_API_KEY`.
 3. Repo Settings, Actions, General, Workflow permissions: choose **Read and write**.
 4. Put approved images in `assets/` using the exact filenames from the prompt pack (`assets/characters/CHAR-AYRA_front.png`, `assets/locations/LOC-AYRA-HOME_wide_day.png`, ...). Keep each image under about 2 MB.
 5. Optional: licensed or free-license music in `audio/music/`, Bangla font (Kalpurush) in `fonts/` for burned-in subtitles.
