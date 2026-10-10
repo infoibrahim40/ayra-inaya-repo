@@ -1,0 +1,418 @@
+locations:
+- id: LOC-AYRA-HOME_wide_day
+  description: 'Ayra''s home exterior: cozy two-storey suburban house with a yellow front door, small
+    flower garden, warm cream walls, terracotta roof. Sunny afternoon'
+  image: assets/locations/LOC-AYRA-HOME_wide_day.png
+- id: LOC-AYRA-HOME_angleA_day
+  description: Ayra's home exterior, angle on front door and garden path close angle. Sunny afternoon
+  image: assets/locations/LOC-AYRA-HOME_angleA_day.png
+- id: LOC-AYRA-HOME_angleB_day
+  description: Ayra's home exterior, angle on side view showing the backyard gate and wall. Sunny afternoon
+  image: assets/locations/LOC-AYRA-HOME_angleB_day.png
+- id: LOC-INAYA-HOME_wide_day
+  description: 'Inaya''s home exterior: modern white two-storey house with teal window shutters, a big
+    window with bookshelves visible inside, small neat garden. Sunny afternoon'
+  image: assets/locations/LOC-INAYA-HOME_wide_day.png
+- id: LOC-INAYA-HOME_angleA_day
+  description: Inaya's home exterior, angle on front entrance and teal shutters. Sunny afternoon
+  image: assets/locations/LOC-INAYA-HOME_angleA_day.png
+- id: LOC-INAYA-HOME_angleB_day
+  description: Inaya's home exterior, angle on side window showing bookshelves. Sunny afternoon
+  image: assets/locations/LOC-INAYA-HOME_angleB_day.png
+- id: LOC-RAYAN-HOME_wide_day
+  description: 'Rayan''s home exterior: friendly house with a bright green gate, small porch, an open
+    garage with cluttered shelves. Sunny afternoon'
+  image: assets/locations/LOC-RAYAN-HOME_wide_day.png
+- id: LOC-RAYAN-HOME_angleA_day
+  description: Rayan's home exterior, angle on green gate and porch. Sunny afternoon
+  image: assets/locations/LOC-RAYAN-HOME_angleA_day.png
+- id: LOC-RAYAN-HOME_angleB_day
+  description: Rayan's home exterior, angle on inside of the garage with shelves. Sunny afternoon
+  image: assets/locations/LOC-RAYAN-HOME_angleB_day.png
+- id: LOC-ZAYD-HOME_wide_day
+  description: 'Zayd''s home exterior: blue house with a small rooftop lab-shed visible behind it, small
+    solar panels, neatly arranged wires. Sunny afternoon'
+  image: assets/locations/LOC-ZAYD-HOME_wide_day.png
+- id: LOC-ZAYD-HOME_angleA_day
+  description: Zayd's home exterior, angle on front entrance. Sunny afternoon
+  image: assets/locations/LOC-ZAYD-HOME_angleA_day.png
+- id: LOC-ZAYD-HOME_angleB_day
+  description: Zayd's home exterior, angle on backyard with the lab-shed. Sunny afternoon
+  image: assets/locations/LOC-ZAYD-HOME_angleB_day.png
+- id: LOC-SCHOOL_wide_day
+  description: 'Sunrise Elementary School exterior: colorful school building with a big clock above the
+    entrance, sunny courtyard, bright murals of suns and flowers. Sunny afternoon'
+  image: assets/locations/LOC-SCHOOL_wide_day.png
+- id: LOC-SCHOOL_angleA_day
+  description: Sunrise Elementary School exterior, angle on main entrance and clock. Sunny afternoon
+  image: assets/locations/LOC-SCHOOL_angleA_day.png
+- id: LOC-SCHOOL_angleB_day
+  description: Sunrise Elementary School exterior, angle on courtyard with benches. Sunny afternoon
+  image: assets/locations/LOC-SCHOOL_angleB_day.png
+- id: LOC-CLASSROOM_wide_day
+  description: 'school classroom interior: bright classroom with window seats, colorful desks, a class
+    pet corner with a small fish tank, blank whiteboard. Sunny afternoon'
+  image: assets/locations/LOC-CLASSROOM_wide_day.png
+- id: LOC-CLASSROOM_angleA_day
+  description: school classroom interior, angle on view from the back toward the teacher's desk. Sunny
+    afternoon
+  image: assets/locations/LOC-CLASSROOM_angleA_day.png
+- id: LOC-CLASSROOM_angleB_day
+  description: school classroom interior, angle on window seats and pet corner. Sunny afternoon
+  image: assets/locations/LOC-CLASSROOM_angleB_day.png
+- id: LOC-PLAYGROUND_wide_day
+  description: 'school playground: slides, monkey bars, swings, a big oak tree, soft rubber ground. Sunny
+    afternoon'
+  image: assets/locations/LOC-PLAYGROUND_wide_day.png
+- id: LOC-PLAYGROUND_angleA_day
+  description: school playground, angle on oak tree and bench. Sunny afternoon
+  image: assets/locations/LOC-PLAYGROUND_angleA_day.png
+- id: LOC-PLAYGROUND_angleB_day
+  description: school playground, angle on slide and monkey bars. Sunny afternoon
+  image: assets/locations/LOC-PLAYGROUND_angleB_day.png
+- id: LOC-MOSQUE_wide_day
+  description: 'neighborhood mosque, respectful and calm: warm stone building with a gentle dome and a
+    small minaret, calm courtyard with a fountain and olive trees. Sunny afternoon'
+  image: assets/locations/LOC-MOSQUE_wide_day.png
+- id: LOC-MOSQUE_angleA_day
+  description: neighborhood mosque, respectful and calm, angle on courtyard with fountain. Sunny afternoon
+  image: assets/locations/LOC-MOSQUE_angleA_day.png
+- id: LOC-MOSQUE_angleB_day
+  description: neighborhood mosque, respectful and calm, angle on interior prayer hall, calm and empty,
+    soft light on the carpet. Sunny afternoon
+  image: assets/locations/LOC-MOSQUE_angleB_day.png
+- id: LOC-PARK_wide_day
+  description: 'neighborhood park: central pond with ducks, jogging path, wooden benches, a gazebo, large
+    trees. Sunny afternoon'
+  image: assets/locations/LOC-PARK_wide_day.png
+- id: LOC-PARK_angleA_day
+  description: neighborhood park, angle on pond and small bridge. Sunny afternoon
+  image: assets/locations/LOC-PARK_angleA_day.png
+- id: LOC-PARK_angleB_day
+  description: neighborhood park, angle on gazebo and path. Sunny afternoon
+  image: assets/locations/LOC-PARK_angleB_day.png
+- id: LOC-COMMUNITY-CENTER_wide_day
+  description: 'community center: friendly low building with a large events hall, a craft room with tables,
+    a notice board by the entrance. Sunny afternoon'
+  image: assets/locations/LOC-COMMUNITY-CENTER_wide_day.png
+- id: LOC-COMMUNITY-CENTER_angleA_day
+  description: community center, angle on events hall interior. Sunny afternoon
+  image: assets/locations/LOC-COMMUNITY-CENTER_angleA_day.png
+- id: LOC-COMMUNITY-CENTER_angleB_day
+  description: community center, angle on craft room. Sunny afternoon
+  image: assets/locations/LOC-COMMUNITY-CENTER_angleB_day.png
+- id: LOC-LIBRARY_wide_day
+  description: 'public library interior: tall wooden shelves, cozy reading nook with beanbags, friendly
+    front desk, big windows. Sunny afternoon'
+  image: assets/locations/LOC-LIBRARY_wide_day.png
+- id: LOC-LIBRARY_angleA_day
+  description: public library interior, angle on reading nook. Sunny afternoon
+  image: assets/locations/LOC-LIBRARY_angleA_day.png
+- id: LOC-LIBRARY_angleB_day
+  description: public library interior, angle on front desk and shelves. Sunny afternoon
+  image: assets/locations/LOC-LIBRARY_angleB_day.png
+- id: LOC-GROCERY_wide_day
+  description: 'Mr. Haroon''s neighborhood grocery store: small colorful grocery with fruit crates outside,
+    striped awning, shelves of goods inside. Sunny afternoon'
+  image: assets/locations/LOC-GROCERY_wide_day.png
+- id: LOC-GROCERY_angleA_day
+  description: Mr. Haroon's neighborhood grocery store, angle on exterior with fruit crates. Sunny afternoon
+  image: assets/locations/LOC-GROCERY_angleA_day.png
+- id: LOC-GROCERY_angleB_day
+  description: Mr. Haroon's neighborhood grocery store, angle on interior aisle. Sunny afternoon
+  image: assets/locations/LOC-GROCERY_angleB_day.png
+- id: LOC-BAKERY_wide_day
+  description: 'neighborhood bakery: warm-lit bakery with a pastry display window, wooden counter, shelves
+    of bread. Sunny afternoon'
+  image: assets/locations/LOC-BAKERY_wide_day.png
+- id: LOC-BAKERY_angleA_day
+  description: neighborhood bakery, angle on pastry window and counter. Sunny afternoon
+  image: assets/locations/LOC-BAKERY_angleA_day.png
+- id: LOC-BAKERY_angleB_day
+  description: neighborhood bakery, angle on interior seating corner. Sunny afternoon
+  image: assets/locations/LOC-BAKERY_angleB_day.png
+- id: LOC-RESTAURANT_wide_day
+  description: 'family restaurant: cozy restaurant with round tables, warm lanterns, an open kitchen window.
+    Sunny afternoon'
+  image: assets/locations/LOC-RESTAURANT_wide_day.png
+- id: LOC-RESTAURANT_angleA_day
+  description: family restaurant, angle on dining area. Sunny afternoon
+  image: assets/locations/LOC-RESTAURANT_angleA_day.png
+- id: LOC-RESTAURANT_angleB_day
+  description: family restaurant, angle on entrance and counter. Sunny afternoon
+  image: assets/locations/LOC-RESTAURANT_angleB_day.png
+- id: LOC-SHOPPING-STREET_wide_day
+  description: 'shopping street: pedestrian street with colorful awnings, small shops, string lights overhead,
+    benches. Sunny afternoon'
+  image: assets/locations/LOC-SHOPPING-STREET_wide_day.png
+- id: LOC-SHOPPING-STREET_angleA_day
+  description: shopping street, angle on street view with awnings. Sunny afternoon
+  image: assets/locations/LOC-SHOPPING-STREET_angleA_day.png
+- id: LOC-SHOPPING-STREET_angleB_day
+  description: shopping street, angle on shop fronts close view. Sunny afternoon
+  image: assets/locations/LOC-SHOPPING-STREET_angleB_day.png
+- id: LOC-NANI-HOME_wide_day
+  description: 'Nani''s old cozy house: charming old house with a wide porch, big garden, a mango tree,
+    a tea table on the porch. Sunny afternoon'
+  image: assets/locations/LOC-NANI-HOME_wide_day.png
+- id: LOC-NANI-HOME_angleA_day
+  description: Nani's old cozy house, angle on porch and tea table. Sunny afternoon
+  image: assets/locations/LOC-NANI-HOME_angleA_day.png
+- id: LOC-NANI-HOME_angleB_day
+  description: Nani's old cozy house, angle on garden with the mango tree. Sunny afternoon
+  image: assets/locations/LOC-NANI-HOME_angleB_day.png
+- id: LOC-BACKYARD_wide_day
+  description: 'Ayra''s backyard: garden with a wooden swing, small tool shed, flower beds, low fence.
+    Sunny afternoon'
+  image: assets/locations/LOC-BACKYARD_wide_day.png
+- id: LOC-BACKYARD_angleA_day
+  description: Ayra's backyard, angle on swing and tree. Sunny afternoon
+  image: assets/locations/LOC-BACKYARD_angleA_day.png
+- id: LOC-BACKYARD_angleB_day
+  description: Ayra's backyard, angle on shed and flower beds. Sunny afternoon
+  image: assets/locations/LOC-BACKYARD_angleB_day.png
+- id: LOC-BEACH_wide_day
+  description: 'beach: gentle waves, soft sand, a lifeguard tower, colorful beach umbrellas, seashells.
+    Sunny afternoon'
+  image: assets/locations/LOC-BEACH_wide_day.png
+- id: LOC-BEACH_angleA_day
+  description: beach, angle on shoreline and waves. Sunny afternoon
+  image: assets/locations/LOC-BEACH_angleA_day.png
+- id: LOC-BEACH_angleB_day
+  description: beach, angle on lifeguard tower and umbrellas. Sunny afternoon
+  image: assets/locations/LOC-BEACH_angleB_day.png
+- id: LOC-CAMPSITE_wide_day
+  description: 'camping area: pine trees around a calm lake, tents, a campfire circle with logs (unlit).
+    Sunny afternoon'
+  image: assets/locations/LOC-CAMPSITE_wide_day.png
+- id: LOC-CAMPSITE_angleA_day
+  description: camping area, angle on lakeside. Sunny afternoon
+  image: assets/locations/LOC-CAMPSITE_angleA_day.png
+- id: LOC-CAMPSITE_angleB_day
+  description: camping area, angle on campfire circle. Sunny afternoon
+  image: assets/locations/LOC-CAMPSITE_angleB_day.png
+- id: LOC-AIRPORT_wide_day
+  description: 'airport terminal: bright modern terminal with big windows, luggage carousel, check-in
+    counters, planes visible outside. Sunny afternoon'
+  image: assets/locations/LOC-AIRPORT_wide_day.png
+- id: LOC-AIRPORT_angleA_day
+  description: airport terminal, angle on check-in hall. Sunny afternoon
+  image: assets/locations/LOC-AIRPORT_angleA_day.png
+- id: LOC-AIRPORT_angleB_day
+  description: airport terminal, angle on luggage carousel and windows. Sunny afternoon
+  image: assets/locations/LOC-AIRPORT_angleB_day.png
+- id: LOC-RAMADAN-STREET_wide_day
+  description: 'Ramadan community street: lanterns and string lights overhead, community iftar tables
+    with tablecloths, crescent decorations, warm dusk light. Sunny afternoon'
+  image: assets/locations/LOC-RAMADAN-STREET_wide_day.png
+- id: LOC-RAMADAN-STREET_angleA_day
+  description: Ramadan community street, angle on iftar tables. Sunny afternoon
+  image: assets/locations/LOC-RAMADAN-STREET_angleA_day.png
+- id: LOC-RAMADAN-STREET_angleB_day
+  description: Ramadan community street, angle on lantern-lined entrance. Sunny afternoon
+  image: assets/locations/LOC-RAMADAN-STREET_angleB_day.png
+- id: LOC-EID-PLAZA_wide_day
+  description: 'Eid celebration plaza: festively decorated plaza with banners, balloons, stalls with sweets
+    and gifts, bright morning light. Sunny afternoon'
+  image: assets/locations/LOC-EID-PLAZA_wide_day.png
+- id: LOC-EID-PLAZA_angleA_day
+  description: Eid celebration plaza, angle on stalls. Sunny afternoon
+  image: assets/locations/LOC-EID-PLAZA_angleA_day.png
+- id: LOC-EID-PLAZA_angleB_day
+  description: Eid celebration plaza, angle on central decorated area. Sunny afternoon
+  image: assets/locations/LOC-EID-PLAZA_angleB_day.png
+- id: LOC-INDOOR-PLAY_wide_day
+  description: 'indoor play area: soft play zone with trampolines, a ball pit, padded slides, bright colors.
+    Sunny afternoon'
+  image: assets/locations/LOC-INDOOR-PLAY_wide_day.png
+- id: LOC-INDOOR-PLAY_angleA_day
+  description: indoor play area, angle on ball pit. Sunny afternoon
+  image: assets/locations/LOC-INDOOR-PLAY_angleA_day.png
+- id: LOC-INDOOR-PLAY_angleB_day
+  description: indoor play area, angle on trampoline area. Sunny afternoon
+  image: assets/locations/LOC-INDOOR-PLAY_angleB_day.png
+- id: LOC-SCIENCE-FAIR_wide_day
+  description: 'school science fair hall: school gym with project booths, banners, tables with fictional
+    model volcanoes and blank posters. Sunny afternoon'
+  image: assets/locations/LOC-SCIENCE-FAIR_wide_day.png
+- id: LOC-SCIENCE-FAIR_angleA_day
+  description: school science fair hall, angle on booth row. Sunny afternoon
+  image: assets/locations/LOC-SCIENCE-FAIR_angleA_day.png
+- id: LOC-SCIENCE-FAIR_angleB_day
+  description: school science fair hall, angle on center stage area. Sunny afternoon
+  image: assets/locations/LOC-SCIENCE-FAIR_angleB_day.png
+- id: LOC-AYRA-HOME_int_kitchen_day
+  description: 'Interior of Ayra''s home: bright kitchen with a big window, wooden table, a shelf with
+    cups, morning sunlight'
+  image: assets/locations/LOC-AYRA-HOME_int_kitchen_day.png
+- id: LOC-AYRA-HOME_int_kitchen_night
+  description: 'Interior of Ayra''s home: same kitchen at night, warm ceiling light, dark window'
+  image: assets/locations/LOC-AYRA-HOME_int_kitchen_night.png
+- id: LOC-AYRA-HOME_int_livingroom_day
+  description: 'Interior of Ayra''s home: cozy living room with a sofa, rug, bookshelf, sunlit window'
+  image: assets/locations/LOC-AYRA-HOME_int_livingroom_day.png
+- id: LOC-AYRA-HOME_int_livingroom_night
+  description: 'Interior of Ayra''s home: same living room at night, lamp light'
+  image: assets/locations/LOC-AYRA-HOME_int_livingroom_night.png
+- id: LOC-AYRA-HOME_int_bedroom_day
+  description: 'Interior of Ayra''s home: Ayra''s bedroom with a bed, yellow blanket, desk, drawings on
+    the wall, daylight'
+  image: assets/locations/LOC-AYRA-HOME_int_bedroom_day.png
+- id: LOC-AYRA-HOME_int_bedroom_night
+  description: 'Interior of Ayra''s home: same bedroom at night, bedside lamp'
+  image: assets/locations/LOC-AYRA-HOME_int_bedroom_night.png
+- id: LOC-AYRA-HOME_int_hallway_stairs
+  description: 'Interior of Ayra''s home: hallway with wooden stairs, shoe rack, coat hooks, family photos
+    without faces'
+  image: assets/locations/LOC-AYRA-HOME_int_hallway_stairs.png
+- id: LOC-AYRA-HOME_int_dining_table_close
+  description: 'Interior of Ayra''s home: close view of the dining table with a tablecloth, a fruit bowl,
+    and an empty spot where a cup stands'
+  image: assets/locations/LOC-AYRA-HOME_int_dining_table_close.png
+- id: LOC-AYRA-HOME_int_kitchen_counter_close
+  description: 'Interior of Ayra''s home: close view of the kitchen counter, a shelf with cups above it,
+    a dustpan hook on the wall'
+  image: assets/locations/LOC-AYRA-HOME_int_kitchen_counter_close.png
+- id: LOC-AYRA-HOME_int_backyard_door_view
+  description: 'Interior of Ayra''s home: view from inside toward the glass back door leading to the garden,
+    afternoon'
+  image: assets/locations/LOC-AYRA-HOME_int_backyard_door_view.png
+- id: LOC-AYRA-HOME_wide_evening
+  description: Ayra's home exterior, golden-hour sunset light, long soft shadows
+  image: assets/locations/LOC-AYRA-HOME_wide_evening.png
+- id: LOC-AYRA-HOME_wide_night
+  description: Ayra's home exterior, night time, warm lit windows, clear sky with stars
+  image: assets/locations/LOC-AYRA-HOME_wide_night.png
+- id: LOC-AYRA-HOME_wide_rainy
+  description: Ayra's home exterior, overcast rainy day, wet ground, puddles, soft grey light
+  image: assets/locations/LOC-AYRA-HOME_wide_rainy.png
+- id: LOC-AYRA-HOME_wide_snowy
+  description: Ayra's home exterior, light snowfall, snow covered roofs and ground, cold soft light
+  image: assets/locations/LOC-AYRA-HOME_wide_snowy.png
+- id: LOC-AYRA-HOME_wide_ramadan
+  description: Ayra's home exterior, dusk, lanterns and string lights, crescent decorations, warm festive
+    glow
+  image: assets/locations/LOC-AYRA-HOME_wide_ramadan.png
+- id: LOC-AYRA-HOME_wide_eid
+  description: Ayra's home exterior, bright morning, festive banners and balloons, celebratory mood
+  image: assets/locations/LOC-AYRA-HOME_wide_eid.png
+- id: LOC-PARK_wide_evening
+  description: neighborhood park, golden-hour sunset light, long soft shadows
+  image: assets/locations/LOC-PARK_wide_evening.png
+- id: LOC-PARK_wide_night
+  description: neighborhood park, night time, warm lit windows, clear sky with stars
+  image: assets/locations/LOC-PARK_wide_night.png
+- id: LOC-PARK_wide_rainy
+  description: neighborhood park, overcast rainy day, wet ground, puddles, soft grey light
+  image: assets/locations/LOC-PARK_wide_rainy.png
+- id: LOC-PARK_wide_snowy
+  description: neighborhood park, light snowfall, snow covered roofs and ground, cold soft light
+  image: assets/locations/LOC-PARK_wide_snowy.png
+- id: LOC-PARK_wide_ramadan
+  description: neighborhood park, dusk, lanterns and string lights, crescent decorations, warm festive
+    glow
+  image: assets/locations/LOC-PARK_wide_ramadan.png
+- id: LOC-PARK_wide_eid
+  description: neighborhood park, bright morning, festive banners and balloons, celebratory mood
+  image: assets/locations/LOC-PARK_wide_eid.png
+- id: LOC-SCHOOL_wide_evening
+  description: Sunrise Elementary School exterior, golden-hour sunset light, long soft shadows
+  image: assets/locations/LOC-SCHOOL_wide_evening.png
+- id: LOC-SCHOOL_wide_night
+  description: Sunrise Elementary School exterior, night time, warm lit windows, clear sky with stars
+  image: assets/locations/LOC-SCHOOL_wide_night.png
+- id: LOC-SCHOOL_wide_rainy
+  description: Sunrise Elementary School exterior, overcast rainy day, wet ground, puddles, soft grey
+    light
+  image: assets/locations/LOC-SCHOOL_wide_rainy.png
+- id: LOC-SCHOOL_wide_snowy
+  description: Sunrise Elementary School exterior, light snowfall, snow covered roofs and ground, cold
+    soft light
+  image: assets/locations/LOC-SCHOOL_wide_snowy.png
+- id: LOC-SCHOOL_wide_ramadan
+  description: Sunrise Elementary School exterior, dusk, lanterns and string lights, crescent decorations,
+    warm festive glow
+  image: assets/locations/LOC-SCHOOL_wide_ramadan.png
+- id: LOC-SCHOOL_wide_eid
+  description: Sunrise Elementary School exterior, bright morning, festive banners and balloons, celebratory
+    mood
+  image: assets/locations/LOC-SCHOOL_wide_eid.png
+- id: LOC-SHOPPING-STREET_wide_evening
+  description: shopping street, golden-hour sunset light, long soft shadows
+  image: assets/locations/LOC-SHOPPING-STREET_wide_evening.png
+- id: LOC-SHOPPING-STREET_wide_night
+  description: shopping street, night time, warm lit windows, clear sky with stars
+  image: assets/locations/LOC-SHOPPING-STREET_wide_night.png
+- id: LOC-SHOPPING-STREET_wide_rainy
+  description: shopping street, overcast rainy day, wet ground, puddles, soft grey light
+  image: assets/locations/LOC-SHOPPING-STREET_wide_rainy.png
+- id: LOC-SHOPPING-STREET_wide_snowy
+  description: shopping street, light snowfall, snow covered roofs and ground, cold soft light
+  image: assets/locations/LOC-SHOPPING-STREET_wide_snowy.png
+- id: LOC-SHOPPING-STREET_wide_ramadan
+  description: shopping street, dusk, lanterns and string lights, crescent decorations, warm festive glow
+  image: assets/locations/LOC-SHOPPING-STREET_wide_ramadan.png
+- id: LOC-SHOPPING-STREET_wide_eid
+  description: shopping street, bright morning, festive banners and balloons, celebratory mood
+  image: assets/locations/LOC-SHOPPING-STREET_wide_eid.png
+- id: LOC-MOSQUE_wide_evening
+  description: neighborhood mosque, respectful and calm, golden-hour sunset light, long soft shadows
+  image: assets/locations/LOC-MOSQUE_wide_evening.png
+- id: LOC-MOSQUE_wide_night
+  description: neighborhood mosque, respectful and calm, night time, warm lit windows, clear sky with
+    stars
+  image: assets/locations/LOC-MOSQUE_wide_night.png
+- id: LOC-MOSQUE_wide_rainy
+  description: neighborhood mosque, respectful and calm, overcast rainy day, wet ground, puddles, soft
+    grey light
+  image: assets/locations/LOC-MOSQUE_wide_rainy.png
+- id: LOC-MOSQUE_wide_snowy
+  description: neighborhood mosque, respectful and calm, light snowfall, snow covered roofs and ground,
+    cold soft light
+  image: assets/locations/LOC-MOSQUE_wide_snowy.png
+- id: LOC-MOSQUE_wide_ramadan
+  description: neighborhood mosque, respectful and calm, dusk, lanterns and string lights, crescent decorations,
+    warm festive glow
+  image: assets/locations/LOC-MOSQUE_wide_ramadan.png
+- id: LOC-MOSQUE_wide_eid
+  description: neighborhood mosque, respectful and calm, bright morning, festive banners and balloons,
+    celebratory mood
+  image: assets/locations/LOC-MOSQUE_wide_eid.png
+- id: LOC-NANI-HOME_wide_evening
+  description: Nani's old cozy house, golden-hour sunset light, long soft shadows
+  image: assets/locations/LOC-NANI-HOME_wide_evening.png
+- id: LOC-NANI-HOME_wide_night
+  description: Nani's old cozy house, night time, warm lit windows, clear sky with stars
+  image: assets/locations/LOC-NANI-HOME_wide_night.png
+- id: LOC-NANI-HOME_wide_rainy
+  description: Nani's old cozy house, overcast rainy day, wet ground, puddles, soft grey light
+  image: assets/locations/LOC-NANI-HOME_wide_rainy.png
+- id: LOC-NANI-HOME_wide_snowy
+  description: Nani's old cozy house, light snowfall, snow covered roofs and ground, cold soft light
+  image: assets/locations/LOC-NANI-HOME_wide_snowy.png
+- id: LOC-NANI-HOME_wide_ramadan
+  description: Nani's old cozy house, dusk, lanterns and string lights, crescent decorations, warm festive
+    glow
+  image: assets/locations/LOC-NANI-HOME_wide_ramadan.png
+- id: LOC-NANI-HOME_wide_eid
+  description: Nani's old cozy house, bright morning, festive banners and balloons, celebratory mood
+  image: assets/locations/LOC-NANI-HOME_wide_eid.png
+- id: LOC-BAKERY_wide_evening
+  description: neighborhood bakery, golden-hour sunset light, long soft shadows
+  image: assets/locations/LOC-BAKERY_wide_evening.png
+- id: LOC-BAKERY_wide_night
+  description: neighborhood bakery, night time, warm lit windows, clear sky with stars
+  image: assets/locations/LOC-BAKERY_wide_night.png
+- id: LOC-BAKERY_wide_rainy
+  description: neighborhood bakery, overcast rainy day, wet ground, puddles, soft grey light
+  image: assets/locations/LOC-BAKERY_wide_rainy.png
+- id: LOC-BAKERY_wide_snowy
+  description: neighborhood bakery, light snowfall, snow covered roofs and ground, cold soft light
+  image: assets/locations/LOC-BAKERY_wide_snowy.png
+- id: LOC-BAKERY_wide_ramadan
+  description: neighborhood bakery, dusk, lanterns and string lights, crescent decorations, warm festive
+    glow
+  image: assets/locations/LOC-BAKERY_wide_ramadan.png
+- id: LOC-BAKERY_wide_eid
+  description: neighborhood bakery, bright morning, festive banners and balloons, celebratory mood
+  image: assets/locations/LOC-BAKERY_wide_eid.png

@@ -1,0 +1,256 @@
+﻿folder,filename,id,batch,aspect,attach_reference
+characters,CHAR-AYRA_front.png,CHAR-AYRA-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-AYRA_side.png,CHAR-AYRA-side,1,3:4,CHAR-AYRA_front.png
+characters,CHAR-AYRA_threequarter.png,CHAR-AYRA-threequarter,1,3:4,CHAR-AYRA_front.png
+characters,CHAR-AYRA_back.png,CHAR-AYRA-back,1,3:4,CHAR-AYRA_front.png
+characters,CHAR-AYRA_expressions.png,CHAR-AYRA-expressions,1,16:9,CHAR-AYRA_front.png
+characters,CHAR-AYRA_poses.png,CHAR-AYRA-poses,1,16:9,CHAR-AYRA_front.png
+characters,CHAR-AYRA_outfit_school.png,CHAR-AYRA-outfit-school,1,3:4,CHAR-AYRA_front.png
+characters,CHAR-AYRA_outfit_pajama.png,CHAR-AYRA-outfit-pajama,1,3:4,CHAR-AYRA_front.png
+characters,CHAR-AYRA_outfit_eid.png,CHAR-AYRA-outfit-eid,1,3:4,CHAR-AYRA_front.png
+characters,CHAR-AYRA_outfit_rain.png,CHAR-AYRA-outfit-rain,1,3:4,CHAR-AYRA_front.png
+characters,CHAR-AYRA_outfit_winter.png,CHAR-AYRA-outfit-winter,1,3:4,CHAR-AYRA_front.png
+characters,CHAR-INAYA_front.png,CHAR-INAYA-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-INAYA_side.png,CHAR-INAYA-side,1,3:4,CHAR-INAYA_front.png
+characters,CHAR-INAYA_threequarter.png,CHAR-INAYA-threequarter,1,3:4,CHAR-INAYA_front.png
+characters,CHAR-INAYA_back.png,CHAR-INAYA-back,1,3:4,CHAR-INAYA_front.png
+characters,CHAR-INAYA_expressions.png,CHAR-INAYA-expressions,1,16:9,CHAR-INAYA_front.png
+characters,CHAR-INAYA_poses.png,CHAR-INAYA-poses,1,16:9,CHAR-INAYA_front.png
+characters,CHAR-INAYA_outfit_school.png,CHAR-INAYA-outfit-school,1,3:4,CHAR-INAYA_front.png
+characters,CHAR-INAYA_outfit_pajama.png,CHAR-INAYA-outfit-pajama,1,3:4,CHAR-INAYA_front.png
+characters,CHAR-INAYA_outfit_eid.png,CHAR-INAYA-outfit-eid,1,3:4,CHAR-INAYA_front.png
+characters,CHAR-INAYA_outfit_rain.png,CHAR-INAYA-outfit-rain,1,3:4,CHAR-INAYA_front.png
+characters,CHAR-INAYA_outfit_winter.png,CHAR-INAYA-outfit-winter,1,3:4,CHAR-INAYA_front.png
+characters,CHAR-RAYAN_front.png,CHAR-RAYAN-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-RAYAN_side.png,CHAR-RAYAN-side,1,3:4,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_threequarter.png,CHAR-RAYAN-threequarter,1,3:4,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_back.png,CHAR-RAYAN-back,1,3:4,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_expressions.png,CHAR-RAYAN-expressions,1,16:9,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_poses.png,CHAR-RAYAN-poses,1,16:9,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_outfit_school.png,CHAR-RAYAN-outfit-school,1,3:4,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_outfit_pajama.png,CHAR-RAYAN-outfit-pajama,1,3:4,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_outfit_eid.png,CHAR-RAYAN-outfit-eid,1,3:4,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_outfit_rain.png,CHAR-RAYAN-outfit-rain,1,3:4,CHAR-RAYAN_front.png
+characters,CHAR-RAYAN_outfit_winter.png,CHAR-RAYAN-outfit-winter,1,3:4,CHAR-RAYAN_front.png
+characters,CHAR-ZAYD_front.png,CHAR-ZAYD-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-ZAYD_side.png,CHAR-ZAYD-side,1,3:4,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_threequarter.png,CHAR-ZAYD-threequarter,1,3:4,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_back.png,CHAR-ZAYD-back,1,3:4,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_expressions.png,CHAR-ZAYD-expressions,1,16:9,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_poses.png,CHAR-ZAYD-poses,1,16:9,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_outfit_school.png,CHAR-ZAYD-outfit-school,1,3:4,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_outfit_pajama.png,CHAR-ZAYD-outfit-pajama,1,3:4,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_outfit_eid.png,CHAR-ZAYD-outfit-eid,1,3:4,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_outfit_rain.png,CHAR-ZAYD-outfit-rain,1,3:4,CHAR-ZAYD_front.png
+characters,CHAR-ZAYD_outfit_winter.png,CHAR-ZAYD-outfit-winter,1,3:4,CHAR-ZAYD_front.png
+characters,CHAR-MISO_front.png,CHAR-MISO-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-MISO_side.png,CHAR-MISO-side,1,3:4,CHAR-MISO_front.png
+characters,CHAR-MISO_threequarter.png,CHAR-MISO-threequarter,1,3:4,CHAR-MISO_front.png
+characters,CHAR-MISO_back.png,CHAR-MISO-back,1,3:4,CHAR-MISO_front.png
+characters,CHAR-MISO_expressions.png,CHAR-MISO-expressions,1,16:9,CHAR-MISO_front.png
+characters,CHAR-MISO_poses.png,CHAR-MISO-poses,1,16:9,CHAR-MISO_front.png
+characters,CHAR-MISO_boxhide.png,CHAR-MISO-boxhide,1,1:1,CHAR-MISO_front.png
+characters,CHAR-MOM_front.png,CHAR-MOM-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-MOM_side.png,CHAR-MOM-side,1,3:4,CHAR-MOM_front.png
+characters,CHAR-MOM_threequarter.png,CHAR-MOM-threequarter,1,3:4,CHAR-MOM_front.png
+characters,CHAR-MOM_back.png,CHAR-MOM-back,1,3:4,CHAR-MOM_front.png
+characters,CHAR-MOM_expressions.png,CHAR-MOM-expressions,1,16:9,CHAR-MOM_front.png
+characters,CHAR-MOM_outfit_eid.png,CHAR-MOM-outfit-eid,1,3:4,CHAR-MOM_front.png
+characters,CHAR-DAD_front.png,CHAR-DAD-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-DAD_side.png,CHAR-DAD-side,1,3:4,CHAR-DAD_front.png
+characters,CHAR-DAD_threequarter.png,CHAR-DAD-threequarter,1,3:4,CHAR-DAD_front.png
+characters,CHAR-DAD_back.png,CHAR-DAD-back,1,3:4,CHAR-DAD_front.png
+characters,CHAR-DAD_expressions.png,CHAR-DAD-expressions,1,16:9,CHAR-DAD_front.png
+characters,CHAR-DAD_outfit_eid.png,CHAR-DAD-outfit-eid,1,3:4,CHAR-DAD_front.png
+characters,CHAR-NANI_front.png,CHAR-NANI-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-NANI_side.png,CHAR-NANI-side,1,3:4,CHAR-NANI_front.png
+characters,CHAR-NANI_threequarter.png,CHAR-NANI-threequarter,1,3:4,CHAR-NANI_front.png
+characters,CHAR-NANI_back.png,CHAR-NANI-back,1,3:4,CHAR-NANI_front.png
+characters,CHAR-NANI_expressions.png,CHAR-NANI-expressions,1,16:9,CHAR-NANI_front.png
+characters,CHAR-NANI_outfit_eid.png,CHAR-NANI-outfit-eid,1,3:4,CHAR-NANI_front.png
+characters,CHAR-MS-SALMA_front.png,CHAR-MS-SALMA-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-MS-SALMA_side.png,CHAR-MS-SALMA-side,1,3:4,CHAR-MS-SALMA_front.png
+characters,CHAR-MS-SALMA_threequarter.png,CHAR-MS-SALMA-threequarter,1,3:4,CHAR-MS-SALMA_front.png
+characters,CHAR-MS-SALMA_back.png,CHAR-MS-SALMA-back,1,3:4,CHAR-MS-SALMA_front.png
+characters,CHAR-MS-SALMA_expressions.png,CHAR-MS-SALMA-expressions,1,16:9,CHAR-MS-SALMA_front.png
+characters,CHAR-MS-SALMA_outfit_eid.png,CHAR-MS-SALMA-outfit-eid,1,3:4,CHAR-MS-SALMA_front.png
+characters,CHAR-MR-HAROON_front.png,CHAR-MR-HAROON-front,1,3:4,"(none - MASTER, generate first)"
+characters,CHAR-MR-HAROON_side.png,CHAR-MR-HAROON-side,1,3:4,CHAR-MR-HAROON_front.png
+characters,CHAR-MR-HAROON_threequarter.png,CHAR-MR-HAROON-threequarter,1,3:4,CHAR-MR-HAROON_front.png
+characters,CHAR-MR-HAROON_back.png,CHAR-MR-HAROON-back,1,3:4,CHAR-MR-HAROON_front.png
+characters,CHAR-MR-HAROON_expressions.png,CHAR-MR-HAROON-expressions,1,16:9,CHAR-MR-HAROON_front.png
+characters,CHAR-MR-HAROON_outfit_eid.png,CHAR-MR-HAROON-outfit-eid,1,3:4,CHAR-MR-HAROON_front.png
+characters,GROUP_height_lineup.png,GROUP-height-lineup,1,16:9,all CHAR front masters
+characters,GROUP_full_cast.png,GROUP-full-cast,1,16:9,all CHAR front masters
+characters,GROUP_ayra_inaya.png,GROUP-ayra-inaya,1,16:9,"CHAR-AYRA_front, CHAR-INAYA_front"
+locations,LOC-AYRA-HOME_wide_day.png,LOC-AYRA-HOME-wide,2,16:9,(none - generate first)
+locations,LOC-AYRA-HOME_angleA_day.png,LOC-AYRA-HOME-angleA,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_angleB_day.png,LOC-AYRA-HOME-angleB,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-INAYA-HOME_wide_day.png,LOC-INAYA-HOME-wide,2,16:9,(none - generate first)
+locations,LOC-INAYA-HOME_angleA_day.png,LOC-INAYA-HOME-angleA,2,16:9,LOC-INAYA-HOME_wide_day.png
+locations,LOC-INAYA-HOME_angleB_day.png,LOC-INAYA-HOME-angleB,2,16:9,LOC-INAYA-HOME_wide_day.png
+locations,LOC-RAYAN-HOME_wide_day.png,LOC-RAYAN-HOME-wide,2,16:9,(none - generate first)
+locations,LOC-RAYAN-HOME_angleA_day.png,LOC-RAYAN-HOME-angleA,2,16:9,LOC-RAYAN-HOME_wide_day.png
+locations,LOC-RAYAN-HOME_angleB_day.png,LOC-RAYAN-HOME-angleB,2,16:9,LOC-RAYAN-HOME_wide_day.png
+locations,LOC-ZAYD-HOME_wide_day.png,LOC-ZAYD-HOME-wide,2,16:9,(none - generate first)
+locations,LOC-ZAYD-HOME_angleA_day.png,LOC-ZAYD-HOME-angleA,2,16:9,LOC-ZAYD-HOME_wide_day.png
+locations,LOC-ZAYD-HOME_angleB_day.png,LOC-ZAYD-HOME-angleB,2,16:9,LOC-ZAYD-HOME_wide_day.png
+locations,LOC-SCHOOL_wide_day.png,LOC-SCHOOL-wide,2,16:9,(none - generate first)
+locations,LOC-SCHOOL_angleA_day.png,LOC-SCHOOL-angleA,2,16:9,LOC-SCHOOL_wide_day.png
+locations,LOC-SCHOOL_angleB_day.png,LOC-SCHOOL-angleB,2,16:9,LOC-SCHOOL_wide_day.png
+locations,LOC-CLASSROOM_wide_day.png,LOC-CLASSROOM-wide,2,16:9,(none - generate first)
+locations,LOC-CLASSROOM_angleA_day.png,LOC-CLASSROOM-angleA,2,16:9,LOC-CLASSROOM_wide_day.png
+locations,LOC-CLASSROOM_angleB_day.png,LOC-CLASSROOM-angleB,2,16:9,LOC-CLASSROOM_wide_day.png
+locations,LOC-PLAYGROUND_wide_day.png,LOC-PLAYGROUND-wide,2,16:9,(none - generate first)
+locations,LOC-PLAYGROUND_angleA_day.png,LOC-PLAYGROUND-angleA,2,16:9,LOC-PLAYGROUND_wide_day.png
+locations,LOC-PLAYGROUND_angleB_day.png,LOC-PLAYGROUND-angleB,2,16:9,LOC-PLAYGROUND_wide_day.png
+locations,LOC-MOSQUE_wide_day.png,LOC-MOSQUE-wide,2,16:9,(none - generate first)
+locations,LOC-MOSQUE_angleA_day.png,LOC-MOSQUE-angleA,2,16:9,LOC-MOSQUE_wide_day.png
+locations,LOC-MOSQUE_angleB_day.png,LOC-MOSQUE-angleB,2,16:9,LOC-MOSQUE_wide_day.png
+locations,LOC-PARK_wide_day.png,LOC-PARK-wide,2,16:9,(none - generate first)
+locations,LOC-PARK_angleA_day.png,LOC-PARK-angleA,2,16:9,LOC-PARK_wide_day.png
+locations,LOC-PARK_angleB_day.png,LOC-PARK-angleB,2,16:9,LOC-PARK_wide_day.png
+locations,LOC-COMMUNITY-CENTER_wide_day.png,LOC-COMMUNITY-CENTER-wide,2,16:9,(none - generate first)
+locations,LOC-COMMUNITY-CENTER_angleA_day.png,LOC-COMMUNITY-CENTER-angleA,2,16:9,LOC-COMMUNITY-CENTER_wide_day.png
+locations,LOC-COMMUNITY-CENTER_angleB_day.png,LOC-COMMUNITY-CENTER-angleB,2,16:9,LOC-COMMUNITY-CENTER_wide_day.png
+locations,LOC-LIBRARY_wide_day.png,LOC-LIBRARY-wide,2,16:9,(none - generate first)
+locations,LOC-LIBRARY_angleA_day.png,LOC-LIBRARY-angleA,2,16:9,LOC-LIBRARY_wide_day.png
+locations,LOC-LIBRARY_angleB_day.png,LOC-LIBRARY-angleB,2,16:9,LOC-LIBRARY_wide_day.png
+locations,LOC-GROCERY_wide_day.png,LOC-GROCERY-wide,2,16:9,(none - generate first)
+locations,LOC-GROCERY_angleA_day.png,LOC-GROCERY-angleA,2,16:9,LOC-GROCERY_wide_day.png
+locations,LOC-GROCERY_angleB_day.png,LOC-GROCERY-angleB,2,16:9,LOC-GROCERY_wide_day.png
+locations,LOC-BAKERY_wide_day.png,LOC-BAKERY-wide,2,16:9,(none - generate first)
+locations,LOC-BAKERY_angleA_day.png,LOC-BAKERY-angleA,2,16:9,LOC-BAKERY_wide_day.png
+locations,LOC-BAKERY_angleB_day.png,LOC-BAKERY-angleB,2,16:9,LOC-BAKERY_wide_day.png
+locations,LOC-RESTAURANT_wide_day.png,LOC-RESTAURANT-wide,2,16:9,(none - generate first)
+locations,LOC-RESTAURANT_angleA_day.png,LOC-RESTAURANT-angleA,2,16:9,LOC-RESTAURANT_wide_day.png
+locations,LOC-RESTAURANT_angleB_day.png,LOC-RESTAURANT-angleB,2,16:9,LOC-RESTAURANT_wide_day.png
+locations,LOC-SHOPPING-STREET_wide_day.png,LOC-SHOPPING-STREET-wide,2,16:9,(none - generate first)
+locations,LOC-SHOPPING-STREET_angleA_day.png,LOC-SHOPPING-STREET-angleA,2,16:9,LOC-SHOPPING-STREET_wide_day.png
+locations,LOC-SHOPPING-STREET_angleB_day.png,LOC-SHOPPING-STREET-angleB,2,16:9,LOC-SHOPPING-STREET_wide_day.png
+locations,LOC-NANI-HOME_wide_day.png,LOC-NANI-HOME-wide,2,16:9,(none - generate first)
+locations,LOC-NANI-HOME_angleA_day.png,LOC-NANI-HOME-angleA,2,16:9,LOC-NANI-HOME_wide_day.png
+locations,LOC-NANI-HOME_angleB_day.png,LOC-NANI-HOME-angleB,2,16:9,LOC-NANI-HOME_wide_day.png
+locations,LOC-BACKYARD_wide_day.png,LOC-BACKYARD-wide,2,16:9,(none - generate first)
+locations,LOC-BACKYARD_angleA_day.png,LOC-BACKYARD-angleA,2,16:9,LOC-BACKYARD_wide_day.png
+locations,LOC-BACKYARD_angleB_day.png,LOC-BACKYARD-angleB,2,16:9,LOC-BACKYARD_wide_day.png
+locations,LOC-BEACH_wide_day.png,LOC-BEACH-wide,2,16:9,(none - generate first)
+locations,LOC-BEACH_angleA_day.png,LOC-BEACH-angleA,2,16:9,LOC-BEACH_wide_day.png
+locations,LOC-BEACH_angleB_day.png,LOC-BEACH-angleB,2,16:9,LOC-BEACH_wide_day.png
+locations,LOC-CAMPSITE_wide_day.png,LOC-CAMPSITE-wide,2,16:9,(none - generate first)
+locations,LOC-CAMPSITE_angleA_day.png,LOC-CAMPSITE-angleA,2,16:9,LOC-CAMPSITE_wide_day.png
+locations,LOC-CAMPSITE_angleB_day.png,LOC-CAMPSITE-angleB,2,16:9,LOC-CAMPSITE_wide_day.png
+locations,LOC-AIRPORT_wide_day.png,LOC-AIRPORT-wide,2,16:9,(none - generate first)
+locations,LOC-AIRPORT_angleA_day.png,LOC-AIRPORT-angleA,2,16:9,LOC-AIRPORT_wide_day.png
+locations,LOC-AIRPORT_angleB_day.png,LOC-AIRPORT-angleB,2,16:9,LOC-AIRPORT_wide_day.png
+locations,LOC-RAMADAN-STREET_wide_day.png,LOC-RAMADAN-STREET-wide,2,16:9,(none - generate first)
+locations,LOC-RAMADAN-STREET_angleA_day.png,LOC-RAMADAN-STREET-angleA,2,16:9,LOC-RAMADAN-STREET_wide_day.png
+locations,LOC-RAMADAN-STREET_angleB_day.png,LOC-RAMADAN-STREET-angleB,2,16:9,LOC-RAMADAN-STREET_wide_day.png
+locations,LOC-EID-PLAZA_wide_day.png,LOC-EID-PLAZA-wide,2,16:9,(none - generate first)
+locations,LOC-EID-PLAZA_angleA_day.png,LOC-EID-PLAZA-angleA,2,16:9,LOC-EID-PLAZA_wide_day.png
+locations,LOC-EID-PLAZA_angleB_day.png,LOC-EID-PLAZA-angleB,2,16:9,LOC-EID-PLAZA_wide_day.png
+locations,LOC-INDOOR-PLAY_wide_day.png,LOC-INDOOR-PLAY-wide,2,16:9,(none - generate first)
+locations,LOC-INDOOR-PLAY_angleA_day.png,LOC-INDOOR-PLAY-angleA,2,16:9,LOC-INDOOR-PLAY_wide_day.png
+locations,LOC-INDOOR-PLAY_angleB_day.png,LOC-INDOOR-PLAY-angleB,2,16:9,LOC-INDOOR-PLAY_wide_day.png
+locations,LOC-SCIENCE-FAIR_wide_day.png,LOC-SCIENCE-FAIR-wide,2,16:9,(none - generate first)
+locations,LOC-SCIENCE-FAIR_angleA_day.png,LOC-SCIENCE-FAIR-angleA,2,16:9,LOC-SCIENCE-FAIR_wide_day.png
+locations,LOC-SCIENCE-FAIR_angleB_day.png,LOC-SCIENCE-FAIR-angleB,2,16:9,LOC-SCIENCE-FAIR_wide_day.png
+locations,LOC-AYRA-HOME_int_kitchen_day.png,LOC-AYRA-HOME-INT-kitchen_day,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_kitchen_night.png,LOC-AYRA-HOME-INT-kitchen_night,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_livingroom_day.png,LOC-AYRA-HOME-INT-livingroom_day,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_livingroom_night.png,LOC-AYRA-HOME-INT-livingroom_night,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_bedroom_day.png,LOC-AYRA-HOME-INT-bedroom_day,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_bedroom_night.png,LOC-AYRA-HOME-INT-bedroom_night,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_hallway_stairs.png,LOC-AYRA-HOME-INT-hallway_stairs,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_dining_table_close.png,LOC-AYRA-HOME-INT-dining_table_close,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_kitchen_counter_close.png,LOC-AYRA-HOME-INT-kitchen_counter_close,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_int_backyard_door_view.png,LOC-AYRA-HOME-INT-backyard_door_view,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_wide_evening.png,LOC-AYRA-HOME-evening,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_wide_night.png,LOC-AYRA-HOME-night,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_wide_rainy.png,LOC-AYRA-HOME-rainy,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_wide_snowy.png,LOC-AYRA-HOME-snowy,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_wide_ramadan.png,LOC-AYRA-HOME-ramadan,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-AYRA-HOME_wide_eid.png,LOC-AYRA-HOME-eid,2,16:9,LOC-AYRA-HOME_wide_day.png
+locations,LOC-PARK_wide_evening.png,LOC-PARK-evening,2,16:9,LOC-PARK_wide_day.png
+locations,LOC-PARK_wide_night.png,LOC-PARK-night,2,16:9,LOC-PARK_wide_day.png
+locations,LOC-PARK_wide_rainy.png,LOC-PARK-rainy,2,16:9,LOC-PARK_wide_day.png
+locations,LOC-PARK_wide_snowy.png,LOC-PARK-snowy,2,16:9,LOC-PARK_wide_day.png
+locations,LOC-PARK_wide_ramadan.png,LOC-PARK-ramadan,2,16:9,LOC-PARK_wide_day.png
+locations,LOC-PARK_wide_eid.png,LOC-PARK-eid,2,16:9,LOC-PARK_wide_day.png
+locations,LOC-SCHOOL_wide_evening.png,LOC-SCHOOL-evening,2,16:9,LOC-SCHOOL_wide_day.png
+locations,LOC-SCHOOL_wide_night.png,LOC-SCHOOL-night,2,16:9,LOC-SCHOOL_wide_day.png
+locations,LOC-SCHOOL_wide_rainy.png,LOC-SCHOOL-rainy,2,16:9,LOC-SCHOOL_wide_day.png
+locations,LOC-SCHOOL_wide_snowy.png,LOC-SCHOOL-snowy,2,16:9,LOC-SCHOOL_wide_day.png
+locations,LOC-SCHOOL_wide_ramadan.png,LOC-SCHOOL-ramadan,2,16:9,LOC-SCHOOL_wide_day.png
+locations,LOC-SCHOOL_wide_eid.png,LOC-SCHOOL-eid,2,16:9,LOC-SCHOOL_wide_day.png
+locations,LOC-SHOPPING-STREET_wide_evening.png,LOC-SHOPPING-STREET-evening,2,16:9,LOC-SHOPPING-STREET_wide_day.png
+locations,LOC-SHOPPING-STREET_wide_night.png,LOC-SHOPPING-STREET-night,2,16:9,LOC-SHOPPING-STREET_wide_day.png
+locations,LOC-SHOPPING-STREET_wide_rainy.png,LOC-SHOPPING-STREET-rainy,2,16:9,LOC-SHOPPING-STREET_wide_day.png
+locations,LOC-SHOPPING-STREET_wide_snowy.png,LOC-SHOPPING-STREET-snowy,2,16:9,LOC-SHOPPING-STREET_wide_day.png
+locations,LOC-SHOPPING-STREET_wide_ramadan.png,LOC-SHOPPING-STREET-ramadan,2,16:9,LOC-SHOPPING-STREET_wide_day.png
+locations,LOC-SHOPPING-STREET_wide_eid.png,LOC-SHOPPING-STREET-eid,2,16:9,LOC-SHOPPING-STREET_wide_day.png
+locations,LOC-MOSQUE_wide_evening.png,LOC-MOSQUE-evening,2,16:9,LOC-MOSQUE_wide_day.png
+locations,LOC-MOSQUE_wide_night.png,LOC-MOSQUE-night,2,16:9,LOC-MOSQUE_wide_day.png
+locations,LOC-MOSQUE_wide_rainy.png,LOC-MOSQUE-rainy,2,16:9,LOC-MOSQUE_wide_day.png
+locations,LOC-MOSQUE_wide_snowy.png,LOC-MOSQUE-snowy,2,16:9,LOC-MOSQUE_wide_day.png
+locations,LOC-MOSQUE_wide_ramadan.png,LOC-MOSQUE-ramadan,2,16:9,LOC-MOSQUE_wide_day.png
+locations,LOC-MOSQUE_wide_eid.png,LOC-MOSQUE-eid,2,16:9,LOC-MOSQUE_wide_day.png
+locations,LOC-NANI-HOME_wide_evening.png,LOC-NANI-HOME-evening,2,16:9,LOC-NANI-HOME_wide_day.png
+locations,LOC-NANI-HOME_wide_night.png,LOC-NANI-HOME-night,2,16:9,LOC-NANI-HOME_wide_day.png
+locations,LOC-NANI-HOME_wide_rainy.png,LOC-NANI-HOME-rainy,2,16:9,LOC-NANI-HOME_wide_day.png
+locations,LOC-NANI-HOME_wide_snowy.png,LOC-NANI-HOME-snowy,2,16:9,LOC-NANI-HOME_wide_day.png
+locations,LOC-NANI-HOME_wide_ramadan.png,LOC-NANI-HOME-ramadan,2,16:9,LOC-NANI-HOME_wide_day.png
+locations,LOC-NANI-HOME_wide_eid.png,LOC-NANI-HOME-eid,2,16:9,LOC-NANI-HOME_wide_day.png
+locations,LOC-BAKERY_wide_evening.png,LOC-BAKERY-evening,2,16:9,LOC-BAKERY_wide_day.png
+locations,LOC-BAKERY_wide_night.png,LOC-BAKERY-night,2,16:9,LOC-BAKERY_wide_day.png
+locations,LOC-BAKERY_wide_rainy.png,LOC-BAKERY-rainy,2,16:9,LOC-BAKERY_wide_day.png
+locations,LOC-BAKERY_wide_snowy.png,LOC-BAKERY-snowy,2,16:9,LOC-BAKERY_wide_day.png
+locations,LOC-BAKERY_wide_ramadan.png,LOC-BAKERY-ramadan,2,16:9,LOC-BAKERY_wide_day.png
+locations,LOC-BAKERY_wide_eid.png,LOC-BAKERY-eid,2,16:9,LOC-BAKERY_wide_day.png
+props,PROP-CUP-01_intact.png,PROP-CUP-01_intact,3,1:1,(none)
+props,PROP-CUP-01_broken.png,PROP-CUP-01_broken,3,1:1,(none)
+props,PROP-AYRA-BAG.png,PROP-AYRA-BAG,3,1:1,(none)
+props,PROP-INAYA-NOTEBOOK.png,PROP-INAYA-NOTEBOOK,3,1:1,(none)
+props,PROP-ZAYD-GOGGLES.png,PROP-ZAYD-GOGGLES,3,1:1,(none)
+props,PROP-ZAYD-TOOLBELT.png,PROP-ZAYD-TOOLBELT,3,1:1,(none)
+props,PROP-RAYAN-SNACK.png,PROP-RAYAN-SNACK,3,1:1,(none)
+props,PROP-MISO-BOX.png,PROP-MISO-BOX,3,1:1,(none)
+props,PROP-KITCHEN-CLOCK.png,PROP-KITCHEN-CLOCK,3,1:1,(none)
+props,PROP-NEIGHBORHOOD-BELL.png,PROP-NEIGHBORHOOD-BELL,3,1:1,(none)
+props,PROP-MOM-APRON.png,PROP-MOM-APRON,3,1:1,(none)
+props,PROP-MOM-TEAPOT.png,PROP-MOM-TEAPOT,3,1:1,(none)
+props,PROP-NANI-BASKET.png,PROP-NANI-BASKET,3,1:1,(none)
+props,PROP-MOM-HANDBAG.png,PROP-MOM-HANDBAG,3,1:1,(none)
+props,PROP-RAYAN-BACKPACK.png,PROP-RAYAN-BACKPACK,3,1:1,(none)
+props,PROP-GEN-01.png,PROP-GEN-01,3,1:1,(none)
+props,PROP-GEN-02.png,PROP-GEN-02,3,1:1,(none)
+props,PROP-GEN-03.png,PROP-GEN-03,3,1:1,(none)
+props,PROP-GEN-04.png,PROP-GEN-04,3,1:1,(none)
+props,PROP-GEN-05.png,PROP-GEN-05,3,1:1,(none)
+props,PROP-GEN-06.png,PROP-GEN-06,3,1:1,(none)
+props,PROP-GEN-07.png,PROP-GEN-07,3,1:1,(none)
+props,PROP-GEN-08.png,PROP-GEN-08,3,1:1,(none)
+props,PROP-GEN-09.png,PROP-GEN-09,3,1:1,(none)
+props,PROP-GEN-10.png,PROP-GEN-10,3,1:1,(none)
+props,PROP-GEN-11.png,PROP-GEN-11,3,1:1,(none)
+props,PROP-GEN-12.png,PROP-GEN-12,3,1:1,(none)
+props,PROP-GEN-13.png,PROP-GEN-13,3,1:1,(none)
+props,PROP-GEN-14.png,PROP-GEN-14,3,1:1,(none)
+props,PROP-GEN-15.png,PROP-GEN-15,3,1:1,(none)
+props,PROP-GEN-16.png,PROP-GEN-16,3,1:1,(none)
+props,PROP-GEN-17.png,PROP-GEN-17,3,1:1,(none)
+props,PROP-GEN-18.png,PROP-GEN-18,3,1:1,(none)
+props,PROP-GEN-19.png,PROP-GEN-19,3,1:1,(none)
+props,PROP-GEN-20.png,PROP-GEN-20,3,1:1,(none)
+props,PROP-GEN-21.png,PROP-GEN-21,3,1:1,(none)
+props,PROP-GEN-22.png,PROP-GEN-22,3,1:1,(none)
+props,PROP-GEN-23.png,PROP-GEN-23,3,1:1,(none)
+props,PROP-GEN-24.png,PROP-GEN-24,3,1:1,(none)
+props,PROP-GEN-25.png,PROP-GEN-25,3,1:1,(none)
+style,STYLE_palette.png,STYLE-palette,3,16:9,(none)
+style,STYLE_light-morning.png,STYLE-light-morning,3,16:9,(none)
+style,STYLE_light-evening.png,STYLE-light-evening,3,16:9,(none)
+style,STYLE_light-night.png,STYLE-light-night,3,16:9,(none)
+style,STYLE_light-rain.png,STYLE-light-rain,3,16:9,(none)
+style,STYLE_interior-warm.png,STYLE-interior-warm,3,16:9,(none)
+style,STYLE_material.png,STYLE-material,3,16:9,(none)

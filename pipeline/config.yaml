@@ -1,0 +1,18 @@
+# Edit this file when a model name or limit changes. Verify values in the official docs before big runs.
+claude_model: claude-sonnet-5-5
+
+video:
+  model: veo-3.1-generate-preview   # verify the current Veo model name in Google's docs
+  aspect_ratio: "16:9"
+  duration_seconds: 8               # clip length your chosen model supports (with reference images it may be fixed)
+  resolution: "720p"                # verify what is allowed with reference images
+  max_reference_images: 3           # verify the current limit
+  poll_seconds: 10
+  max_retries: 2
+  max_clips_per_run: 80             # safety brake against surprise cost
+
+output:
+  width: 1920
+  height: 1080
+  fps: 30
+  music_volume: 0.12

@@ -1,0 +1,11 @@
+note: Voice audio is supplied per line in episodes/<ep>/audio/<lang>/<LINE_ID>.mp3. Fill voice_id only
+  if a TTS step is added later.
+characters:
+  AYRA: energetic, expressive
+  INAYA: warm, thoughtful, playful
+  RAYAN: comedic, big reactions
+  ZAYD: curious, enthusiastic
+  MOM: warm, caring
+  DAD: relaxed, friendly
+  NANI: gentle, wise
+  MISO: meows only

@@ -1,0 +1,26 @@
+# ep000 = tiny demo (about 30 seconds) for testing cost and quality before a full episode.
+episode: ep000
+title_en: "The Cup Problem (demo)"
+title_bn: "কাপের সমস্যা (ডেমো)"
+music: ""            # e.g. audio/music/light_adventure.mp3 (licensed or free-license only)
+scenes:
+  - id: S01
+    location: kitchen, daytime
+    summary: Ayra stares in shock at Mom's favorite cup broken on the kitchen floor. Miso watches from the counter, innocent.
+    lines:
+      - char: AYRA
+        en: "Oh no... Mom's favorite cup!"
+        bn: "ইশ! আম্মুর সবচেয়ে প্রিয় কাপটা!"
+      - char: AYRA
+        en: "Okay. Stay calm. Nobody saw anything."
+        bn: "ঠিক আছে, শান্ত হ। কেউ কিছু দেখেনি।"
+  - id: S02
+    location: kitchen, daytime
+    summary: Inaya walks in and finds Ayra sitting on the floor in front of the broken pieces, pretending everything is fine.
+    lines:
+      - char: INAYA
+        en: "Ayra... why are you sitting on the floor?"
+        bn: "আয়রা... তুই মেঝেতে বসে আছিস কেন?"
+      - char: AYRA
+        en: "No reason! Just... resting."
+        bn: "কোনো কারণ নেই! এমনি... একটু বিশ্রাম নিচ্ছি।"

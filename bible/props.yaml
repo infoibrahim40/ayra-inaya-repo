@@ -1,0 +1,123 @@
+props:
+- id: PROP-CUP-01_intact
+  description: 'Mom''s favorite ceramic cup: cream-white with a hand-painted blue-and-gold floral band
+    and a curved handle. Intact.'
+  image: assets/props/PROP-CUP-01_intact.png
+- id: PROP-CUP-01_broken
+  description: the same cream-white ceramic cup with blue-and-gold floral band, broken into 4 large clean
+    pieces and a few small shards scattered on the floor, handle separate
+  image: assets/props/PROP-CUP-01_broken.png
+- id: PROP-AYRA-BAG
+  description: small yellow crossbody bag with a simple flap and a short strap
+  image: assets/props/PROP-AYRA-BAG.png
+- id: PROP-INAYA-NOTEBOOK
+  description: small teal notebook with a rounded cover and an elastic band, blank cover
+  image: assets/props/PROP-INAYA-NOTEBOOK.png
+- id: PROP-ZAYD-GOGGLES
+  description: round safety goggles with a blue strap and clear lenses
+  image: assets/props/PROP-ZAYD-GOGGLES.png
+- id: PROP-ZAYD-TOOLBELT
+  description: small kid-size tool belt in grey and blue with safe toy-like tools
+  image: assets/props/PROP-ZAYD-TOOLBELT.png
+- id: PROP-RAYAN-SNACK
+  description: a golden crispy filled pastry snack half wrapped in paper
+  image: assets/props/PROP-RAYAN-SNACK.png
+- id: PROP-MISO-BOX
+  description: plain brown cardboard box with open flaps, a little worn
+  image: assets/props/PROP-MISO-BOX.png
+- id: PROP-KITCHEN-CLOCK
+  description: round wall clock with a warm yellow frame, simple numbers
+  image: assets/props/PROP-KITCHEN-CLOCK.png
+- id: PROP-NEIGHBORHOOD-BELL
+  description: small brass hand bell with a wooden handle
+  image: assets/props/PROP-NEIGHBORHOOD-BELL.png
+- id: PROP-MOM-APRON
+  description: cream apron with a small sage-green pocket
+  image: assets/props/PROP-MOM-APRON.png
+- id: PROP-MOM-TEAPOT
+  description: round ceramic teapot, cream with a thin blue line
+  image: assets/props/PROP-MOM-TEAPOT.png
+- id: PROP-NANI-BASKET
+  description: woven picnic basket with a checkered cloth
+  image: assets/props/PROP-NANI-BASKET.png
+- id: PROP-MOM-HANDBAG
+  description: sage-green handbag with a gold clasp
+  image: assets/props/PROP-MOM-HANDBAG.png
+- id: PROP-RAYAN-BACKPACK
+  description: green backpack with an orange zipper
+  image: assets/props/PROP-RAYAN-BACKPACK.png
+- id: PROP-GEN-01
+  description: a plain white plate with a blue rim
+  image: assets/props/PROP-GEN-01.png
+- id: PROP-GEN-02
+  description: a smartphone with a plain screen and a green case
+  image: assets/props/PROP-GEN-02.png
+- id: PROP-GEN-03
+  description: a school lunchbox, red with a simple handle
+  image: assets/props/PROP-GEN-03.png
+- id: PROP-GEN-04
+  description: a baking tray of round cookies
+  image: assets/props/PROP-GEN-04.png
+- id: PROP-GEN-05
+  description: a children's bicycle in blue
+  image: assets/props/PROP-GEN-05.png
+- id: PROP-GEN-06
+  description: a yellow umbrella
+  image: assets/props/PROP-GEN-06.png
+- id: PROP-GEN-07
+  description: a small dome camping tent in orange
+  image: assets/props/PROP-GEN-07.png
+- id: PROP-GEN-08
+  description: a stack of colorful books, blank covers
+  image: assets/props/PROP-GEN-08.png
+- id: PROP-GEN-09
+  description: a simple navy school backpack
+  image: assets/props/PROP-GEN-09.png
+- id: PROP-GEN-10
+  description: a bottle of white craft glue
+  image: assets/props/PROP-GEN-10.png
+- id: PROP-GEN-11
+  description: a broom and dustpan
+  image: assets/props/PROP-GEN-11.png
+- id: PROP-GEN-12
+  description: a reusable water bottle in teal
+  image: assets/props/PROP-GEN-12.png
+- id: PROP-GEN-13
+  description: a soccer ball, plain pattern
+  image: assets/props/PROP-GEN-13.png
+- id: PROP-GEN-14
+  description: a diamond-shaped kite in red and yellow
+  image: assets/props/PROP-GEN-14.png
+- id: PROP-GEN-15
+  description: a handheld flashlight, yellow
+  image: assets/props/PROP-GEN-15.png
+- id: PROP-GEN-16
+  description: a rolled-up old paper treasure map with a red ribbon
+  image: assets/props/PROP-GEN-16.png
+- id: PROP-GEN-17
+  description: a small round birthday cake with candles
+  image: assets/props/PROP-GEN-17.png
+- id: PROP-GEN-18
+  description: a juice carton with a straw, no brand
+  image: assets/props/PROP-GEN-18.png
+- id: PROP-GEN-19
+  description: a small plastic toolbox
+  image: assets/props/PROP-GEN-19.png
+- id: PROP-GEN-20
+  description: a decorative Ramadan lantern with a warm glow
+  image: assets/props/PROP-GEN-20.png
+- id: PROP-GEN-21
+  description: a bowl of dates
+  image: assets/props/PROP-GEN-21.png
+- id: PROP-GEN-22
+  description: a neatly folded prayer mat in deep green
+  image: assets/props/PROP-GEN-22.png
+- id: PROP-GEN-23
+  description: an Eid gift box with a ribbon
+  image: assets/props/PROP-GEN-23.png
+- id: PROP-GEN-24
+  description: a box of sweets, open
+  image: assets/props/PROP-GEN-24.png
+- id: PROP-GEN-25
+  description: a child's sand bucket with a small shovel
+  image: assets/props/PROP-GEN-25.png

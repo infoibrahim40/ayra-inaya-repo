@@ -1,0 +1,5 @@
+﻿line_id,scene,char,en,bn,expected_en_audio,expected_bn_audio
+S01_L01,S01,AYRA,Oh no... Mom's favorite cup!,ইশ! আম্মুর সবচেয়ে প্রিয় কাপটা!,episodes/ep000/audio/en/S01_L01.mp3,episodes/ep000/audio/bn/S01_L01.mp3
+S01_L02,S01,AYRA,Okay. Stay calm. Nobody saw anything.,"ঠিক আছে, শান্ত হ। কেউ কিছু দেখেনি।",episodes/ep000/audio/en/S01_L02.mp3,episodes/ep000/audio/bn/S01_L02.mp3
+S02_L01,S02,INAYA,Ayra... why are you sitting on the floor?,আয়রা... তুই মেঝেতে বসে আছিস কেন?,episodes/ep000/audio/en/S02_L01.mp3,episodes/ep000/audio/bn/S02_L01.mp3
+S02_L02,S02,AYRA,No reason! Just... resting.,কোনো কারণ নেই! এমনি... একটু বিশ্রাম নিচ্ছি।,episodes/ep000/audio/en/S02_L02.mp3,episodes/ep000/audio/bn/S02_L02.mp3

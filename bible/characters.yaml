@@ -1,0 +1,68 @@
+characters:
+- id: CHAR-AYRA
+  name: Ayra
+  description: Ayra, a 10-year-old girl, warm medium-brown skin, big round dark-brown eyes, thick expressive
+    eyebrows, small nose, wide smile with a tiny gap in the upper teeth, long wavy black hair in a side
+    ponytail with a mustard-yellow scrunchie, slim build, wearing coral-orange hoodie, white tee, teal
+    leggings, white sneakers with yellow soles, small yellow crossbody bag
+  master: assets/characters/CHAR-AYRA_front.png
+  voice_id: TODO
+- id: CHAR-INAYA
+  name: Inaya
+  description: Inaya, a 10-year-old girl slightly shorter than Ayra, light olive skin, calm dark-hazel
+    eyes, round tortoiseshell glasses, soft smile, dark-brown curly hair in a high puff with a teal headband,
+    neat posture, wearing lavender cardigan, white top, navy knee-length skirt over grey leggings, teal
+    sneakers, small teal notebook in the pocket
+  master: assets/characters/CHAR-INAYA_front.png
+  voice_id: TODO
+- id: CHAR-RAYAN
+  name: Rayan
+  description: Rayan, an 11-year-old boy, round build, slightly taller than Ayra, light-brown skin, small
+    bright eyes, round cheeks, big grin, short spiky black hair, wearing green hoodie with an orange stripe,
+    khaki shorts, red sneakers, holding a snack
+  master: assets/characters/CHAR-RAYAN_front.png
+  voice_id: TODO
+- id: CHAR-ZAYD
+  name: Zayd
+  description: Zayd, an 11-year-old boy, the tallest and thin, deep-brown skin, wide curious eyes, short
+    neat black hair with safety goggles pushed up on the forehead, wearing blue utility vest with many
+    pockets, grey long-sleeve tee, grey cargo pants, blue sneakers, small tool belt
+  master: assets/characters/CHAR-ZAYD_front.png
+  voice_id: TODO
+- id: CHAR-MISO
+  name: Miso
+  description: 'Miso, a cute mischievous cat, cream fur, orange patch over the left ear, one white sock
+    on the right back paw, big green eyes, short curved tail. Silent: communicates only through meows,
+    body language and expressions'
+  master: assets/characters/CHAR-MISO_front.png
+  voice_id: null
+- id: CHAR-MOM
+  name: Mom
+  description: Ayra's mother, adult woman, warm medium-brown skin, kind patient face, soft sage-green
+    hijab, cream long tunic, comfortable shoes
+  master: assets/characters/CHAR-MOM_front.png
+  voice_id: TODO
+- id: CHAR-DAD
+  name: Dad
+  description: Ayra's father, adult man, warm medium-brown skin, short brown beard, relaxed friendly face,
+    plaid shirt, jeans
+  master: assets/characters/CHAR-DAD_front.png
+  voice_id: TODO
+- id: CHAR-NANI
+  name: Nani
+  description: Nani, elderly grandmother, gentle wrinkles, warm smile, grey-white hijab with lilac border,
+    soft cardigan, long skirt
+  master: assets/characters/CHAR-NANI_front.png
+  voice_id: TODO
+- id: CHAR-MS-SALMA
+  name: Ms Salma
+  description: Ms. Salma, adult school teacher, kind organized look, burgundy cardigan, warm beige scarf,
+    neat skirt
+  master: assets/characters/CHAR-MS-SALMA_front.png
+  voice_id: TODO
+- id: CHAR-MR-HAROON
+  name: Mr Haroon
+  description: Mr. Haroon, round cheerful middle-aged shopkeeper and baker, friendly mustache, white apron
+    over a checkered shirt
+  master: assets/characters/CHAR-MR-HAROON_front.png
+  voice_id: TODO

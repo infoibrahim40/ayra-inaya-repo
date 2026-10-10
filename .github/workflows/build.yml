@@ -1,0 +1,108 @@
+name: build-episode
+
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "Episode folder name, e.g. ep001"
+        required: true
+      stage:
+        description: "plan = make shots.json | prompts = text prompts only (free) | generate = make video clips | assemble = final EN+BN videos"
+        type: choice
+        required: true
+        options: [plan, prompts, generate, assemble]
+      redo:
+        description: "generate only: shot IDs to regenerate, comma separated (or 'all')"
+        required: false
+        default: ""
+      force_plan:
+        description: "plan only: overwrite an existing shots.json"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      EPISODE: ${{ inputs.episode }}
+      STAGE: ${{ inputs.stage }}
+      REDO: ${{ inputs.redo }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          command -v ffmpeg >/dev/null || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+
+      - name: Restore previously generated clips
+        if: env.STAGE == 'generate' || env.STAGE == 'assemble'
+        uses: actions/cache/restore@v4
+        with:
+          path: out/${{ inputs.episode }}/clips
+          key: clips-${{ inputs.episode }}-${{ github.run_id }}
+          restore-keys: clips-${{ inputs.episode }}-
+
+      - name: Stage plan
+        if: env.STAGE == 'plan'
+        run: |
+          FORCE=""
+          if [ "${{ inputs.force_plan }}" = "true" ]; then FORCE="--force"; fi
+          python pipeline/plan_shots.py "$EPISODE" $FORCE
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add "episodes/$EPISODE/shots.json" "episodes/$EPISODE/lines.csv"
+          git commit -m "plan: $EPISODE shots" || echo "nothing to commit"
+          git push
+
+      - name: Stage prompts (no cost)
+        if: env.STAGE == 'prompts'
+        run: python pipeline/gen_clips.py "$EPISODE" --dry-run
+
+      - name: Stage generate
+        if: env.STAGE == 'generate'
+        run: python pipeline/gen_clips.py "$EPISODE" --redo "$REDO"
+
+      - name: Save clips to cache
+        if: always() && env.STAGE == 'generate'
+        uses: actions/cache/save@v4
+        with:
+          path: out/${{ inputs.episode }}/clips
+          key: clips-${{ inputs.episode }}-${{ github.run_id }}
+
+      - name: Stage assemble
+        if: env.STAGE == 'assemble'
+        run: python pipeline/assemble.py "$EPISODE"
+
+      - name: Upload prompts
+        if: env.STAGE == 'prompts'
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.episode }}-prompts
+          path: out/${{ inputs.episode }}/prompts
+
+      - name: Upload clips for review
+        if: always() && env.STAGE == 'generate'
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.episode }}-clips
+          path: out/${{ inputs.episode }}/clips
+          retention-days: 14
+
+      - name: Upload final videos
+        if: env.STAGE == 'assemble'
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.episode }}-final
+          path: out/${{ inputs.episode }}/final
+          retention-days: 30
