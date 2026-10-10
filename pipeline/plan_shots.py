@@ -1,4 +1,4 @@
-"""Stage 1: script.yaml -> shots.json + lines.csv (uses the Claude API)."""
+"""Stage 1: script.yaml -> shots.json + lines.csv (uses the Gemini API, free tier)."""
 import csv
 import json
 import sys
@@ -69,12 +69,19 @@ def validate(shots, lines, order, chars, locs, props, dur):
     return errs
 
 
-def call_claude(prompt, model):
-    import anthropic
-    client = anthropic.Anthropic()
-    msg = client.messages.create(model=model, max_tokens=16000, system=SYSTEM,
-                                 messages=[{"role": "user", "content": prompt}])
-    text = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text").strip()
+def call_gemini(prompt, model):
+    import os
+    from google import genai
+    from google.genai import types
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    resp = client.models.generate_content(
+        model=model,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM,
+            max_output_tokens=16000,
+            response_mime_type="application/json"))
+    text = resp.text.strip()
     if text.startswith("```"):
         text = text.strip("`")
         text = text[text.find("{"):]
@@ -101,7 +108,7 @@ def main():
         sys.exit(f"{out} already exists. It may contain your manual edits. Re-run with force_plan to overwrite.")
     chars, locs, props, style = load_bible()
     c = cfg()
-    data = call_claude(build_request(script, lines, order, chars, locs, props, style, c), c["claude_model"])
+    data = call_gemini(build_request(script, lines, order, chars, locs, props, style, c), c["gemini_model"])
     shots = data["shots"]
     errs = validate(shots, lines, order, chars, locs, props, c["video"]["duration_seconds"])
     if errs:
